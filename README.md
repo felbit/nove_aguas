@@ -5,7 +5,7 @@ for my health on the way.
 
 ## Install
 
-The Releases page has a ZIP archive attached to each release. 
+The [Releases](https://github.com/felbit/nove_aguas/releases) page has a ZIP archive attached to each release. 
 Just download, unzip, and start the `NoveAguas` binary.
 
 ## License
